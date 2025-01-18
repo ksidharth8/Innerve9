@@ -24,7 +24,7 @@ A data science problem solving life-cycle is implemented as illustrated below; w
 <br>
 <br>
   
-![](images/Project_Life-Cycle.jpg)
+![](https://github.com/ksidharth8/Innerve9/blob/master/images/Project_Life-Cycle.jpg)
 
 <h3><b><u>3. Proposed Transfer Learning Architecture:</u></b></h3>
 Below is the proposed transfer learning architecture of the project with one source task and two target tasks:
@@ -32,7 +32,7 @@ Below is the proposed transfer learning architecture of the project with one sou
 <br>
 <br>
 
-![](images/Transfer_Learning_Proposed_Architecture.jpg)
+![](https://github.com/ksidharth8/Innerve9/blob/master/images/Transfer_Learning_Proposed_Architecture.jpg)
 
 <br>
 
@@ -42,7 +42,7 @@ The project implements a standard data split approach to support the transfer le
 <br>
 <br>
 
-![](images/Transfer_Learning_Data_Split_Approach.jpg)
+![](https://github.com/ksidharth8/Innerve9/blob/master/images/Transfer_Learning_Data_Split_Approach.jpg)
 
 <br>
 
@@ -52,7 +52,7 @@ As part of the project's implementation; a new 2-stage "Domain-Tech Feature Sele
 <br>
 <br>
 
-![](images/Domain-Tech_Feature_Selection_Approach_Proposed.jpg)
+![](https://github.com/ksidharth8/Innerve9/blob/master/images/Domain-Tech_Feature_Selection_Approach_Proposed.jpg)
 
 <br>
 
@@ -62,7 +62,7 @@ Below snapshot represents the real-world performance outcomes of the source mode
 <br>
 <br>
 
-![](images/Real-World_Performance_Outcomes.jpg)
+![](https://github.com/ksidharth8/Innerve9/blob/master/images/Real-World_Performance_Outcomes.jpg)
 
 
 <h3><b><u>7. Project Achievements</u></b></h3>
@@ -90,7 +90,7 @@ Below snapshot represents the possible business use cases to use the dual soluti
 <br>
 <br>
 
-![](images/Business_Use_Cases_To_Use_Dual_Solution.jpg)
+![](https://github.com/ksidharth8/Innerve9/blob/master/images/Business_Use_Cases_To_Use_Dual_Solution.jpg)
 
 
 <h3><b><u>9. Dual Solution Implementation in a Web Application</u></b></h3>
@@ -102,11 +102,6 @@ Below snapshot represents the implementation of the dual solution in a Web UI ap
 <br>
 <br>
 
-![](images/Dual_Solution_Implementation_In_Web_Application.jpg)
+![](https://github.com/ksidharth8/Innerve9/blob/master/images/Dual_Solution_Implementation_In_Web_Application.jpg)
 
 <br>
-
-<h3><b><u>GitHub Project Link of the Credit Risk Assessment Dual Framework Deployment into AWS EC2 and Serverless Fargate Instances:</u></b></h3>
-<h3><a href="https://github.com/Tech-with-Vidhya/dockerizing_credit_risk_assessment_python_flask_web_app_ML_models_deployment_AWS_ECR_ECS_Fargate_EC2" style="color: blue"><b><u>Credit Risk Assessment Dual Framework Deployment into AWS Instances</u></b></a></h3>
-
-</br>
