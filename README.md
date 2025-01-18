@@ -105,3 +105,4 @@ Below snapshot represents the implementation of the dual solution in a Web UI ap
 ![](https://github.com/ksidharth8/Innerve9/blob/master/images/Dual_Solution_Implementation_In_Web_Application.jpg)
 
 <br>
+
